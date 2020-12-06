@@ -1,7 +1,7 @@
 ## WPeMatico 
 https://github.com/etruel/wpematico 
 
-**Repository for in-development version of WPeMatico Wordpress Plugin**
+**This repository is a modification of the original wpematico by etruel wp plugin with license GPLv2**
 
 WPeMatico is autoblogging in the blink of an eye!  On complete autopilot WPeMatico gets new contents regularly for your site!
 
