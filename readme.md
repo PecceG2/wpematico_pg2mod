@@ -1,4 +1,4 @@
-## WPeMatico 
+## WPeMatico PG2 Mod
 https://github.com/etruel/wpematico 
 
 **This repository is a modification of the original wpematico by etruel wp plugin with license GPLv2**
